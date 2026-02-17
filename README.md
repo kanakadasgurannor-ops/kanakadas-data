@@ -1,7 +1,7 @@
 # Hi, I'm Kanakadas 👋
 
-🎯 Aspiring Data Analyst based in Bangalore, India  
-📊 Currently pursuing IBM Data Analyst Professional Certificate  
+🎯 **Aspiring Data Analyst** based in Bangalore, India  
+📊 Currently pursuing **IBM Data Analyst Professional Certificate**  
 💡 Passionate about turning raw data into meaningful insights  
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Projects (Coming Soon)
+## 🚀 Upcoming Projects
 
 - Sales Data Analysis
 - Customer Segmentation Analysis
@@ -35,4 +35,5 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/kanakadas-tg-8b6052298
+🔗 LinkedIn:  
+https://www.linkedin.com/in/kanakadas-tg-8b6052298
